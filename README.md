@@ -17,3 +17,5 @@ This project uses environmental parameters such as temperature, rainfall, and hu
 5)Author
   Pravallika Smart_Crop_Recomendation
 Power BI dashboard for smart crop recommendation using environmental data
+  Dashboard Preview
+![Crop Dashboard](dashboard.png)
